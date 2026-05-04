@@ -1,0 +1,5 @@
+git clone https://github.com/shepepepe/miPortofolio-Tobias-Daian-Itrosi.git
+cd miPortofolio-Tobias-Daian-Itrosi
+git add .
+git commit -m "Agrego index"
+git push
