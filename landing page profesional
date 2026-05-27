@@ -1,0 +1,41 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Landing Page</title>
+
+  <!-- Vinculación del CSS -->
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <header class="hero">
+    <h1>Descubrí Nuestros Productos</h1>
+    <p>
+      Calidad, diseño y tecnología en un solo lugar.
+    </p>
+
+    <a href="#" class="btn">Comprar Ahora</a>
+  </header>
+
+  <section class="info">
+    <h2>¿Por qué elegirnos?</h2>
+
+    <p>
+      Ofrecemos productos de excelente calidad con envíos rápidos
+      y atención personalizada.
+    </p>
+  </section>
+
+  <section class="info">
+    <h2>Beneficios</h2>
+
+    <p>
+      Garantía asegurada, soporte 24/7 y las mejores ofertas del mercado.
+    </p>
+  </section>
+
+</body>
+</html>
